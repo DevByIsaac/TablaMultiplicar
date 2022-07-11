@@ -12,7 +12,7 @@ namespace tablaMultiplicar
             int x;
             string y;
 
-            Console.Write("Ingrese el número a multiplicar: \n");
+            Console.Write("Ingrese el multiplicador: \n");
             y = Console.ReadLine();
             x = int.Parse(y);
             
